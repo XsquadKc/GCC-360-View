@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "360°",
+"productVersion": "0.2.1",
+"dataUrl": "360view.data.unityweb",
+"wasmCodeUrl": "360view.wasm.code.unityweb",
+"wasmFrameworkUrl": "360view.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a5"
+}
